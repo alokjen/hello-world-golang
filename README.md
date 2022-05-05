@@ -1,2 +1,2 @@
-# hello-world-golang
-A sample hello world application in go-lang
+# hello-world-java
+A sample hello world application in java springboot
